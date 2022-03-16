@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+body{
+    background-color: rgba(128, 128, 128, 0.308);
+    padding: 30px 0px;
+}
 .tarifs{
     width: 100%;
     display: flex;
@@ -48,8 +52,4 @@ input{
 .user p{
     font-size: 20px;
     margin-bottom: 5px;
-}
-.all{
-    background-color: rgba(128, 128, 128, 0.308);
-    padding: 30px 0px;
 }
